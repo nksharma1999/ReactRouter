@@ -1,0 +1,19 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: blanchedalmond;
+  padding: 10px;
+  text-align: center;
+}
+.tag {
+  margin: 20px;
+}
+.renderPage {
+  /* position: relative; */
+  margin-top: 80px;
+}
+nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+}
